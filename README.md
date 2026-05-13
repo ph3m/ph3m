@@ -8,14 +8,14 @@
 
 🧠 Currently focusing on AI and Machine Learning tasks  
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/peter-msuva/)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/peter-msuva-34155a409)
 
 📃 Website <a href="https://phem.com" target="_blank">phem.com</a>
 
 [![](https://visitcount.itsvg.in/api?id=ph3m&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phem) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@phem)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_p.h.e.m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-msuva-34155a409) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@phem)
 
 
 
